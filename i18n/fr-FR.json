@@ -1,0 +1,20 @@
+{
+    "title": "Roches flottantes",
+    "greetTo": "Bonjour {name}",
+    "home": {
+        "title": "Accueil"
+    },
+    "settings": {
+        "title": "Réglages"
+    },
+    "contacts": {
+        "title": "Contacts",
+        "details": "Détails",
+        "name": "Nom",
+        "email": "Email",
+        "empty": "Aucun contact sélectionné"
+    },
+    "about": {
+        "title": "À propos de"
+    }
+}
